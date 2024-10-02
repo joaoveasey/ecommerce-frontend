@@ -1,3 +1,4 @@
+'use client';
 import ProdutoItem from "@/components//produto/ProdutoItem";
 import { produtos } from "@/core";
 
